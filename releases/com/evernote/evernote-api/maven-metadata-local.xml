@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.evernote</groupId>
+  <artifactId>evernote-api</artifactId>
+  <version>1.21</version>
+  <versioning>
+    <versions>
+      <version>1.21</version>
+      <version>1.2.1</version>
+    </versions>
+    <lastUpdated>20121108182241</lastUpdated>
+  </versioning>
+</metadata>
